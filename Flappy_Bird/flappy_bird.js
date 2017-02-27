@@ -76,7 +76,7 @@ var canvas = document.getElementById('my-canvas'),
 
 /**********init**********/
 //img.src = './fb_img/img.png';
-img.src = 'https://github.com/LazyChenY/src/blob/master/img/img.png?raw=true';
+img.src = 'https://github.com/LazyChenY/Demo/blob/master/Flappy_Bird/images/img.png?raw=true';
 img.onload = start;
 canvas.width = viewSize.width;
 canvas.height = viewSize.height;
