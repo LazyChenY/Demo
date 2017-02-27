@@ -1,4 +1,4 @@
 # Demo
-| ＃ | Title                                                          |  
+| ＃ | Title                                                         |  
 | ---|:--------------------------------------------------------------|
-| 1 | [Flappy Bird](https://github.com/LazyChenY/LeetCode/blob/master/algorithms/palindrome_number.js)                                                          |  
+| 1  |  [Flappy Bird](http://codepen.io/LazyChen/pen/WxWBJR)         |  
